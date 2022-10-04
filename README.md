@@ -39,8 +39,11 @@ c- Profile page : contains the user information and he can view orders history.
 
 
 
-1-https://drive.google.com/drive/folders/1BafjYp4lk1pOwF4jyBYsbSsStIuZ92d0?usp=sharing
-2-https://github.com/ibrahim-taqieddin/onemore-project
-3-https://github.com/stationary-project/stationary
-4-trello link : https://trello.com/b/I0PY91tk/sport-project
+https://drive.google.com/drive/folders/1BafjYp4lk1pOwF4jyBYsbSsStIuZ92d0?usp=sharing
+
+
+https://github.com/stationary-project/stationary
+
+
+trello link : https://trello.com/b/I0PY91tk/sport-project
 
